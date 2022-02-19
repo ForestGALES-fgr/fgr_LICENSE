@@ -43,3 +43,5 @@ circumstances be liable for:
 Finally, fgr and ForestGALES are primarily research tools. At present they are
 also under development themselves and any results produced are therefore subject
 to change.
+
+For any queries, please contact the fgr development team at: forestgales.support@forestresearch.gov.uk
